@@ -1,2 +1,10 @@
 ## 폴더 무시
-modern_react/
+## modern_react/
+node_modules/
+public/
+
+## 파일 무시
+.eslintcache
+package.json
+README.md
+yarn.lock
